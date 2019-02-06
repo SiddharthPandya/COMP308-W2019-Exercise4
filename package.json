@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2019-lesson4b",
+  "name": "comp308-w2019-exercise4",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -18,11 +18,11 @@
     "font-awesome": "^4.7.0",
     "http-errors": "~1.6.2",
     "jquery": "^3.3.1",
-    "mongoose": "^5.4.9",
+    "mongoose": "^5.4.10",
     "morgan": "~1.9.0",
     "popper.js": "^1.14.6"
   },
-  "description": "Mongo and Mongoose Demo",
+  "description": "Exercise 4",
   "main": "server.js",
   "author": "Siddharth Pandya",
   "license": "ISC",
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SiddharthPandya/COMP308-W2019-Lesson4B.git"
+    "url": "git+https://github.com/SiddharthPandya/COMP308-W2019-Exercise4.git"
   },
   "bugs": {
-    "url": "https://github.com/SiddharthPandya/COMP308-W2019-Lesson4B/issues"
+    "url": "https://github.com/SiddharthPandya/COMP308-W2019-Exercise4/issues"
   },
-  "homepage": "https://github.com/SiddharthPandya/COMP308-W2019-Lesson4B#readme"
+  "homepage": "https://github.com/SiddharthPandya/COMP308-W2019-Exercise4#readme"
 }
